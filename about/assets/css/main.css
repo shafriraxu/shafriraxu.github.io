@@ -2758,7 +2758,7 @@ body {
 /* Intro */
 
 #intro {
-    background: url("images/overlay.png"), url("C:\Users\Shafrira\Documents\GitHub\shafriraxu.github.io\about\images\intro.jpg");
+    background: url("images/overlay.png"), url("/about/images/intro.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, bottom center;
